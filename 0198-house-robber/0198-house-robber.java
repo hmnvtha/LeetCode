@@ -3,6 +3,11 @@ class Solution {
 
         int n = nums.length;
 
+        if(n==1)
+        {
+            return nums[0];
+        }
+
         int dp[] = new int[n];
 
         dp[0] = nums[0];
