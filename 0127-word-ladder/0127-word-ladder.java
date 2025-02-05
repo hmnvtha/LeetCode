@@ -45,3 +45,4 @@ class Solution {
         return 0;
     }
 }
+//https://leetcode.com/problems/word-ladder/solutions/5676871/easiest-explanation-with-images-commented-code - for reference
